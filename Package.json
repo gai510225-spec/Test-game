@@ -1,0 +1,11 @@
+{
+  "name": "online-game-hub",
+  "version": "1.0.0",
+  "description": "A simple online game and chatbot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
